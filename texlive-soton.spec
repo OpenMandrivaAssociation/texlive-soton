@@ -44,6 +44,7 @@ produce compliant presentations.
 %{_texmfdistdir}/tex/latex/soton/soton-beamer.sty
 %{_texmfdistdir}/tex/latex/soton/soton-palette.sty
 %doc %{_texmfdistdir}/doc/latex/soton/README
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -54,3 +55,5 @@ produce compliant presentations.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
