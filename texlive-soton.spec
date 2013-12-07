@@ -6,7 +6,7 @@
 # catalog-version 0.1
 Name:		texlive-soton
 Version:	0.1
-Release:	5
+Release:	6
 Summary:	University of Southampton-compliant slides
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/soton
