@@ -1,6 +1,6 @@
 Name:		texlive-soton
 Version:	16215
-Release:	1
+Release:	2
 Summary:	University of Southampton-compliant slides
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/soton
