@@ -3,7 +3,7 @@ Version:	16215
 Release:	2
 Summary:	University of Southampton-compliant slides
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/soton
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/soton
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/soton.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/soton.doc.r%{version}.tar.xz
